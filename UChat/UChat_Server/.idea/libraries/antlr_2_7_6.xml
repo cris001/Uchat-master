@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/antlr-2.7.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/asm-2.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/asm-commons-2.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/asm-util-2.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/aspectjrt.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/aspectjweaver.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/common-annotations.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-dbcp.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-logging-api-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-pool.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/commons-validator-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/freemarker-2.3.19.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/hibernate3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/javassist.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/json-lib-2.3-jdk15.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/jta.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/junit-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/ognl-3.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/ojdbc14-10.2.0.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/spring.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/struts2-core-2.3.16.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/struts2-json-plugin-2.3.16.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/struts2-spring-plugin-2.3.16.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/supermarket/WebContent/WEB-INF/lib/xwork-core-2.3.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

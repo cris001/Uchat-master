@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_chat"
+            android:checked="true"
+            android:icon="@drawable/ic_chat_black"
+            android:title="@string/main_chat"/>
+
+        <item
+            android:id="@+id/action_attendance"
+            android:icon="@drawable/ic_map"
+            android:title="@string/main_attendance"/>
+
+        <item
+            android:id="@+id/action_cloud"
+            android:icon="@drawable/ic_waeather_forecast_black"
+            android:title="@string/main_disk"/>
+
+        <item
+            android:id="@+id/action_task"
+            android:icon="@mipmap/ic_search"
+            android:title="@string/main_task"/>
+        <item
+            android:id="@+id/action_holiday"
+            android:icon="@drawable/ic_news_black"
+            android:title="@string/main_holiday"
+            />
+
+    </group>
+
+</menu>

@@ -1,0 +1,2 @@
+include ':uikit', ':libzxing'
+include ':demo'

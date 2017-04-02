@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.NavigationView
+    android:id="@+id/navigation_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:background="#F7F7F7"
+
+    app:itemTextColor="@color/black"
+    app:itemIconTint="@color/black"
+    app:headerLayout="@layout/navigation_header"
+    app:menu="@menu/menu_navigation"/>
