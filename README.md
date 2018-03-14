@@ -17,3 +17,5 @@ Web服务端由学校或年级的教务管理人员使用，主要提供后台�
 ![image](https://github.com/cris001/Uchat-master/blob/master/media/architecture.png)
 ## 主界面
 ![image](https://github.com/cris001/Uchat-master/blob/master/media/mainboard.png)
+## 主界面
+![image](https://github.com/cris001/Uchat-master/blob/master/media/mainboard.png)
