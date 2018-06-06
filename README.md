@@ -7,9 +7,9 @@ Web服务端由学校或年级的教务管理人员使用，主要提供后台�
 
 •使用技术：	Java语言，Java Web开发，安卓移动客户端开发，高德地图API调用
 
-# 开发环境
+## 开发环境
 ![image](https://github.com/cris001/Uchat-master/blob/master/media/introduce.png)
-# 开发技术
+## 开发技术
 ![image](https://github.com/cris001/Uchat-master/blob/master/media/technology.png)
-# 功能介绍
+## 功能介绍
 ![image](https://github.com/cris001/Uchat-master/blob/master/media/function.png)
